@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Thulasiram P</h1>
-<h3 align="center">A passionate Backend Java developer.</h3>
+<h3 align="center">A passionate Backend Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=th&label=Profile%20views&color=0e75b6&style=flat" alt="ptharrish" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thulasiram27&label=Profile%20views&color=0e75b6&style=flat" alt="thulasiram27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptharrish" alt="ptharrish" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thulasiram27" alt="thulasiram27" /></a> </p>
 
-- 🔭 I’m currently working on [Linear Approximation Computational Complexity With Multivariant Correlation](https://github.com/PTHARRISH/Carbon-emission)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Django Framework from Meta BackEnd Developer**
+- 🔭 I’m currently working on [Smart Web Advertisement Portal](https://github.com/Thulasiram27/advertising-portal)
 
-- 📫 How to reach me **harrishpt@gmail.com**
+- 🌱 I’m currently learning **Springboot**
+
+- 💬 Ask me about **Java,JSP,MySQL**
+
+- 📫 How to reach me **thulasipandianips7@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harrishpt" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="harrishpt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thulasiram-p/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="thulasiram-p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
