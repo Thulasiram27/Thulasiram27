@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thulasiram P</h1>
+<h1 align="center">Hi 👋, I'm THULASIRAM P</h1>
 <h3 align="center">A passionate Backend Java developer from India</h3>
 <p align="left">I am a passionate and enthusiastic java developer with a strong foundation in object-oriented programming, data structures, algorithms, and web development. I have completed project using Java, MySQL, HTML, CSS, and JavaScript. I am eager to learn new technologies and apply them to real-world problems.
 
@@ -14,7 +14,7 @@ I am currently looking for new opportunities to grow as a java developer and wor
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Smart Web Advertisement Portal](https://github.com/Thulasiram27/advertising-portal)
+- 🔭 I’m completed Project [Smart Web Advertisement Portal](https://github.com/Thulasiram27/advertising-portal)
 
 - 🌱 I’m currently learning **Springboot**
 
